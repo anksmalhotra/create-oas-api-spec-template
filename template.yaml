@@ -1,8 +1,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: CISCO OAS API SPEC TEMPLATE
-  title: API Spec Template
+  name: cisco-oas-api-spec
+  title: CISCO API Spec Template
   description: Create a new standalone documentation project
   tags:
     - recommended
