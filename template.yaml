@@ -47,14 +47,6 @@ spec:
           ui:options:
             allowedHosts:
               - github.com
-        owner:
-          title: Owner
-          type: string
-          description: The organization, user or project that this repo will belong to
-        repository:
-          title: Repository
-          type: string
-          description: The name of the repository
         businessgroup:
           title: Business Group
           type: string
